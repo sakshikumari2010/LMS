@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@700&display=swap');
+
+
+#LMS{
+    
+    font-size: 8rem/* 96px */;
+    line-height: 1;
+    font-family: 'Dancing Script', cursive;
+    /* color: rgb(168 85 247); */
+}
+#learn{
+    font-family: 'EB Garamond', serif;
+}
+
+#nav{
+    font-size: 1.4rem/* 18px */;
+    line-height: 1.75rem/* 28px */;
+}
+
+
+
+#nav,#choose,#top-course,#features{
+    font-size: 3.75rem/* 60px */;
+    line-height: 1;
+    font-family: 'EB Garamond', serif;
+}
